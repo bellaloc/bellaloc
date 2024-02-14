@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bellaloc
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning fullstack
+- 🌱 I’m currently doing fullstack
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me bellalococosb@gmail.com
 
