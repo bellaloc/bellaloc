@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bellaloc
-- 👀 I’m interested in software engineering
+- 👋 Hi, I’m @bellaloc (Christa Lococo)
+- 👀 I’m interested in software engineering, AI, ML, LLM, QC & more
 - 🌱 I’m currently doing fullstack
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me bellalococosb@gmail.com
